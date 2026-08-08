@@ -1,0 +1,18 @@
+{
+  "name": "mario-kart-tour-free-roam",
+  "version": "1.0.0",
+  "description": "Explorador de mapa 3D para Mario Kart Tour: New York Minute",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "threejs",
+    "mario-kart-tour",
+    "free-roam",
+    "webgl",
+    "3d"
+  ],
+  "author": "",
+  "license": "MIT"
+}
